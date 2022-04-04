@@ -75,7 +75,7 @@
   </a>
 </p>
 
-<h3 align="center">Sobre mim:</h3>
+<h3 align="center">About me:</h3>
 
 <p align="center">
   <a href="https://instagram.com/edupime04/">
