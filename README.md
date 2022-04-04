@@ -90,12 +90,12 @@
       src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
     />
   </a>
-  <a href="https://discord.gg/seu-server">
+  <a href="https://discord.gg/yqhmHNEYjK">
     <img
       align="center"
       src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
   </a>
-  <a href="https://www.youtube.com/channel/https://discord.gg/yqhmHNEYjK">
+  <a href="https://www.youtube.com/channel/">
     <img
       align="center"
       src="https://img.shields.io/badge/YouTube-1C1C1C?style=for-the-badge&logo=youtube&logoColor=00FFFF"
