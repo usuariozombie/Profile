@@ -82,7 +82,7 @@
       align="center"
       src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
   </a>
-  <a href="https://www.youtube.com/channel/">
+  <a href="https://www.youtube.com/channel/UCN1JLuqjly6w4eYFi40RDPA">
     <img
       align="center"
       src="https://img.shields.io/badge/YouTube-1C1C1C?style=for-the-badge&logo=youtube&logoColor=00FFFF"
