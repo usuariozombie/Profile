@@ -57,7 +57,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=usuariozombie&repo=ZomBot&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=usuariozombie&repo=Cast&theme=tokyonight">
     </img>
   </a>
 </p>
