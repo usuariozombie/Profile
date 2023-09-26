@@ -29,7 +29,6 @@
 
 <h4 align="center">
 <details>
-<summary>More...</summary>
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi! My name is Usuariozombie</h1></img>
 
 <p align="center">
@@ -67,7 +66,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=usuariozombie&repo=Cast&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=usuariozombie&repo=ClassHubAPI&theme=tokyonight">
     </img>
   </a>
 </p>
